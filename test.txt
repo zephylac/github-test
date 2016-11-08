@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch-test-master
+=======
+branch-test-push
+>>>>>>> test-push-branch
